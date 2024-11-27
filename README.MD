@@ -5,5 +5,7 @@ Síntese de fala é o processo de produção artificial de fala humana. Um siste
 """
 
 Azure tempo de execução 0.881953239440918
+
 OpenIA tempo de execução: 3.7533247470855713
+
 Google tempo de execução: 1.9258959293365479
